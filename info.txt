@@ -1,2 +1,28 @@
 Sertaç Derya -- 22003208 -- https://github.com/SertacDerya
 Dark Souls, HOI4
+commit 7b21ab2d0ff39fc1d51e4da65a7d692152d989bb (HEAD -> main, origin/main)
+Merge: 429cbd0 5321958
+Author: SertacDerya <91700558+SertacDerya@users.noreply.github.com>
+Date:   Thu Feb 10 10:16:03 2022 +0300
+
+    Merge pull request #1 from SertacDerya/new_information
+    
+    Updated info.txt in new_info
+
+commit 5321958d5e7f04a1ac445020f397f102318b3ac2 (origin/new_information, new_information)
+Author: SertacD <sertac1902@gmail.com>
+Date:   Thu Feb 10 09:49:22 2022 +0300
+
+    Updated info.txt in new_info
+
+commit 429cbd07e8263b6a5fc7d9b8b57bcdfb7eb9aa1b
+Author: SertacDerya <91700558+SertacDerya@users.noreply.github.com>
+Date:   Thu Feb 10 09:29:53 2022 +0300
+
+    Sertaç Derya updated info.txt
+
+commit 74f4104909a25c7d42f5038a9132ad170dede76f
+Author: SertacDerya <91700558+SertacDerya@users.noreply.github.com>
+Date:   Thu Feb 10 09:28:38 2022 +0300
+
+    Create info.txt
